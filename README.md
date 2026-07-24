@@ -25,10 +25,7 @@ It can download:
 
 ### 1. Clone the repository
 
-```bash
-git clone <your-repository-url>
-cd <repository-name>
-```
+Clone the repository
 
 Or simply download the project files.
 
